@@ -108,4 +108,8 @@ make deploy
 
 ## Running in Azure App Service (Windows)
 
+<<<<<<< HEAD
 Just don't, it's awful
+=======
+Just don't, it's awful 
+>>>>>>> Update README.md
